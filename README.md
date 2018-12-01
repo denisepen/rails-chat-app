@@ -5,20 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* This application is a chat app built with Pusher.  To use first run 'rake db:migrate'. Run 'rails s' to start rails server.
 
-* System dependencies
+* To use simply type your name in username space. Then input your message in the message input space.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To see your message refresh the page.
